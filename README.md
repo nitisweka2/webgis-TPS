@@ -3,6 +3,12 @@ Beberapa fitur diantaranya yaitu:
 1. Admin dapat mengelolah sistem informasi.
 2. Website dapat diakses siapa saja untuk umum.
 3. Dapat memberikan Kritik dan Saran.
+4. Pada tampilan dashboard anda dapat melihat semua titik TPS di kota Malang dengan cara tekan tombol "Tampilkan Semua Lokasi".
+5. Pada Button "Tampilkan TPS Terdekat", adalah menampilkan titik terdekat dari lokasi pengguna ke TPS terdekat dari pengguna.
+6. Pada Button "Tampilkan Rute(Direksi)", adalah menampilkan arah lokasi pengguna menuju ke TPS terdekat.
+7. Pada Button "Tampilkan Lokasi Saya", adalah menampilkan titik lokasi pengguna.
+8. Pada Button "Jalan Sekarang", adalah melakukan update lokasi titik pengguna jika melakukan direksi.
+   <br>
 Untuk melakukan demo admin pada web ini dengan cara:
 1. Login website dengan email: admin@e.com password: admin1234
 2. Masuk tampilan dashboard, pilih menu yang ada.
