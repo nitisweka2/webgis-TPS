@@ -1,3 +1,19 @@
+Website Sistem Geografis ini dibuat untuk mencari TPS terdekat dari titi anda yang ada di lingkup Kota Malang. Website ini memberikan beberapa informasi pada TPS.
+Beberapa fitur diantaranya yaitu:
+1. Admin dapat mengelolah sistem informasi.
+2. Website dapat diakses siapa saja untuk umum.
+3. Dapat memberikan Kritik dan Saran.
+Untuk melakukan demo admin pada web ini dengan cara:
+1. Login website dengan email: admin@e.com password: admin1234
+2. Masuk tampilan dashboard, pilih menu yang ada.
+3. Admin bisa melakukan mengubah, menambah dan menghapus data.
+
+Demo: <a href="https://mansam-malang.000webhostapp.com" target="blank">Optimasi Fuzzy</a>
+<p>Catatan:
+Ada beberapa fitur di sini yang tidak saya upload yaitu livewire, untuk menampilkan peta pada web.
+Untuk mendapatkannya bisa menghubungi saya melalui:
+nitiswekaprakosaadi@gmail.com
+    
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
