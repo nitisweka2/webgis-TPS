@@ -8,7 +8,7 @@ Untuk melakukan demo admin pada web ini dengan cara:
 2. Masuk tampilan dashboard, pilih menu yang ada.
 3. Admin bisa melakukan mengubah, menambah dan menghapus data.
 
-Demo: <a href="https://mansam-malang.000webhostapp.com" target="blank">Optimasi Fuzzy</a>
+Demo: <a href="https://mansam-malang.000webhostapp.com" target="blank">Mansam Malang</a>
 <p>Catatan:
 Ada beberapa fitur di sini yang tidak saya upload yaitu livewire, untuk menampilkan peta pada web.
 Untuk mendapatkannya bisa menghubungi saya melalui:
